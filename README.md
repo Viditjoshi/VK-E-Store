@@ -20,8 +20,8 @@ An e-commerce php and mysql website built from scratch to get started with as a 
 Sample creds saved in DB:
 
 ```bash
-email: kapsjacob@gmail.com
-password: 123456
+email: viditjoshi94@gmail.com
+password: viditjoshi
 role: admin
 ```
 
