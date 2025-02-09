@@ -45,7 +45,7 @@ role: client
 
 Host: localhost<br>
 User: root<br>
-Password: MyNewPass<br>
+Password: ''<br>
 Name: ecommerce
 
 
